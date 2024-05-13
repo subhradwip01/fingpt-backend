@@ -1,0 +1,8 @@
+Flask==2.2.2
+Flask-Cors==4.0.1
+Flask-MongoEngine==1.0.0
+Werkzeug==2.2.2
+flask-bcrypt
+PyJWT==2.8.0
+langchain
+Flask-Cors
